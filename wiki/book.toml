@@ -3,7 +3,7 @@ authors = ["bando9"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Personal Wiki"
+title = "Wiki - Bando Mega Kusuma"
 
 
 [build]
