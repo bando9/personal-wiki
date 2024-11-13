@@ -1,0 +1,10 @@
+[book]
+authors = ["bando9"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Personal Wiki"
+
+
+[build]
+build-dir="../public/wiki"
